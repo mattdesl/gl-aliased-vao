@@ -1,0 +1,34 @@
+{
+  "name": "gl-aliased-vao",
+  "version": "1.0.0",
+  "description": "like vao, but only for simple vertex arrays",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^3.0.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "vao",
+    "vertex",
+    "array",
+    "gl",
+    "stackgl"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/gl-aliased-vao.git"
+  },
+  "homepage": "https://github.com/mattdesl/gl-aliased-vao",
+  "bugs": {
+    "url": "https://github.com/mattdesl/gl-aliased-vao/issues"
+  }
+}
