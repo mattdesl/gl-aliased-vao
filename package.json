@@ -1,6 +1,6 @@
 {
   "name": "gl-aliased-vao",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "like vao, but only for simple vertex arrays",
   "main": "index.js",
   "license": "MIT",
